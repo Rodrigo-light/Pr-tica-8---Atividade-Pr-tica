@@ -6,14 +6,8 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 ## Informações Gerais
 
 - Nome:Rodrigo Dos Santos Libanio
-- Matricula:1110705
+- Matricula:924178
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
-
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
-
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
