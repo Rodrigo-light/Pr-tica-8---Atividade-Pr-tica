@@ -10,4 +10,4 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Prints do console do navegador
 
-
+![alt text](print.png)
